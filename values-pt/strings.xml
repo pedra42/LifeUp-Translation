@@ -1816,7 +1816,7 @@ Se você precisar agendar várias tarefas em um ciclo de repetição, poderá us
     <string name="me_achievement_completed_count">conquistas\ndesbloqueadas</string>
     <string name="me_feelings_count">reflexões</string>
     <string name="tasks_statistic_current_streak">Sequência</string>
-    <string name="shop_item_effect_countdown_action_end">Encerrar equipe</string>
+    <string name="shop_item_effect_countdown_action_end">Encerrar contagem</string>
     <string name="shop_item_effect_countdown_action_pause">Pausar (precisa usar mais um item para retomar)</string>
     <string name="restart_success">Tarefa reiniciada com sucesso.</string>
     <string name="add_to_do_taptarget_deadline_specify_deadline_time_tominutes">Você também pode especificar um horário para a data de término.</string>
@@ -2277,7 +2277,7 @@ Se você precisar agendar várias tarefas em um ciclo de repetição, poderá us
     <string name="dialog_shop_count_down_empty_desc">You can use the \"add up\" action to pause the countdown for items and store them here.</string>
     <string name="edit_to_do_less_than_current_completions">less than current completions (%1$d)</string>
     <string name="pomodoro_record_start_time">Início</string>
-    <string name="pomodoro_record_end_time">Encerrar equipe</string>
+    <string name="pomodoro_record_end_time">Encerrar contagem</string>
     <string name="pomodoro_record_start_time_with_time">Start: %1$s</string>
     <string name="pomodoro_record_end_time_with_time">End: %1$s</string>
     <string name="pomodoro_record_bind_tasks">Tarefas associadas (opcional)</string>
